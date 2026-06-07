@@ -30,4 +30,4 @@ O personagem com maior valor de ofensiva é declarado vencedor.
 
 ## 🔁 Funcionamento
 
-Após cada batalha, o programa pergunta:
+Após cada batalha, o programa pergunta se deseja continuar a batalha.
